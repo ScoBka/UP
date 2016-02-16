@@ -1,0 +1,5 @@
+commit 8a1d85861b1ebbf1bdb20de69d6e1f75fee317d7
+Author: ScoBka <renegade1346357@gmail.com>
+Date:   Tue Feb 9 22:55:42 2016 +0300
+
+    Add .gitignore
