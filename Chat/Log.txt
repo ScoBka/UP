@@ -1,0 +1,10 @@
+Run Application
+Searching by data
+Messages didn't find
+Downloading from file
+Searching by data
+Messages didn't find
+Adding new message
+Searching by data
+Exit application
+Ending application
