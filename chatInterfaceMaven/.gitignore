@@ -1,4 +1,5 @@
 *.iml
+lib/
 target/
 .idea/
 out/
